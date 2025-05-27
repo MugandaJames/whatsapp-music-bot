@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp-music-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@whiskeysockets/baileys": "^6.7.17",
+    "dotenv": "^16.5.0",
+    "openai": "^4.103.0",
+    "pino": "^9.7.0",
+    "qrcode-terminal": "^0.12.0",
+    "youtube-search-api": "^1.2.2"
+  }
+}
